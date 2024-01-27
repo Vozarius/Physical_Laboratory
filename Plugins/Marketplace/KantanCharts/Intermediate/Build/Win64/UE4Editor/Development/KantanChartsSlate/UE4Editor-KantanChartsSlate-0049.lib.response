@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-KantanChartsSlate-0049.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\UE_projects\Physics_Laboratory\Intermediate\Build\Win64\MyProjectEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"D:\UE_projects\Physics_Laboratory\Plugins\Marketplace\KantanCharts\Intermediate\Build\Win64\UE4Editor\Development\KantanChartsSlate\Module.KantanChartsSlate.cpp.obj"
+"D:\UE_projects\Physics_Laboratory\Plugins\Marketplace\KantanCharts\Intermediate\Build\Win64\UE4Editor\Development\KantanChartsSlate\Module.KantanChartsSlate.gen.cpp.obj"
+"D:\UE_projects\Physics_Laboratory\Plugins\Marketplace\KantanCharts\Intermediate\Build\Win64\UE4Editor\Development\KantanChartsSlate\Default.rc2.res"
+/OUT:"D:\UE_projects\Physics_Laboratory\Plugins\Marketplace\KantanCharts\Intermediate\Build\Win64\UE4Editor\Development\KantanChartsSlate\UE4Editor-KantanChartsSlate-0049.lib"
+/INCLUDE:IMPLEMENT_MODULE_KantanChartsSlate

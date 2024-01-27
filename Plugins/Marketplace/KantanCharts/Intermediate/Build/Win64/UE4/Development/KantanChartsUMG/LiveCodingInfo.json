@@ -1,0 +1,37 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.KantanChartsUMG.cpp.obj": [
+			"BarChart.cpp.obj",
+			"CartesianPlot.cpp.obj",
+			"KantanBarChartBase.cpp.obj",
+			"KantanCartesianChartBase.cpp.obj",
+			"KantanCartesianPlotBase.cpp.obj",
+			"KantanCategoryChart.cpp.obj",
+			"KantanChart.cpp.obj",
+			"KantanChartLegend.cpp.obj",
+			"KantanChartsUMGModule.cpp.obj",
+			"KantanTimeSeriesPlotBase.cpp.obj",
+			"SimpleBarChart.cpp.obj",
+			"SimpleCartesianPlot.cpp.obj",
+			"SimpleTimeSeriesPlot.cpp.obj",
+			"TimeSeriesPlot.cpp.obj"
+		],
+		"Module.KantanChartsUMG.gen.cpp.obj": [
+			"BarChart.gen.cpp.obj",
+			"CartesianPlot.gen.cpp.obj",
+			"KantanBarChartBase.gen.cpp.obj",
+			"KantanCartesianChartBase.gen.cpp.obj",
+			"KantanCartesianPlotBase.gen.cpp.obj",
+			"KantanCategoryChart.gen.cpp.obj",
+			"KantanChart.gen.cpp.obj",
+			"KantanChartLegend.gen.cpp.obj",
+			"KantanChartsUMG.init.gen.cpp.obj",
+			"KantanTimeSeriesPlotBase.gen.cpp.obj",
+			"SimpleBarChart.gen.cpp.obj",
+			"SimpleCartesianPlot.gen.cpp.obj",
+			"SimpleTimeSeriesPlot.gen.cpp.obj",
+			"TimeSeriesPlot.gen.cpp.obj"
+		]
+	}
+}

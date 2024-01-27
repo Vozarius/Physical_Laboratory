@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-KantanChartsEditor.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\UE_projects\Physics_Laboratory\Intermediate\Build\Win64\MyProjectEditor\Development\UnrealEd\SharedPCH.UnrealEd.h.obj"
+"D:\UE_projects\Physics_Laboratory\Plugins\Marketplace\KantanCharts\Intermediate\Build\Win64\UE4Editor\Development\KantanChartsEditor\Module.KantanChartsEditor.cpp.obj"
+"D:\UE_projects\Physics_Laboratory\Plugins\Marketplace\KantanCharts\Intermediate\Build\Win64\UE4Editor\Development\KantanChartsEditor\Module.KantanChartsEditor.gen.cpp.obj"
+"D:\UE_projects\Physics_Laboratory\Plugins\Marketplace\KantanCharts\Intermediate\Build\Win64\UE4Editor\Development\KantanChartsEditor\Default.rc2.res"
+/OUT:"D:\UE_projects\Physics_Laboratory\Plugins\Marketplace\KantanCharts\Intermediate\Build\Win64\UE4Editor\Development\KantanChartsEditor\UE4Editor-KantanChartsEditor.lib"
+/INCLUDE:IMPLEMENT_MODULE_KantanChartsEditor

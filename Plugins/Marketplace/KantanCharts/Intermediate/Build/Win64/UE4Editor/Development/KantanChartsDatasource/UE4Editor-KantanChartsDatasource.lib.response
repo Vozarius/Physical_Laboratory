@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-KantanChartsDatasource.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\UE_projects\Physics_Laboratory\Intermediate\Build\Win64\MyProjectEditor\Development\CoreUObject\SharedPCH.CoreUObject.h.obj"
+"D:\UE_projects\Physics_Laboratory\Plugins\Marketplace\KantanCharts\Intermediate\Build\Win64\UE4Editor\Development\KantanChartsDatasource\Module.KantanChartsDatasource.cpp.obj"
+"D:\UE_projects\Physics_Laboratory\Plugins\Marketplace\KantanCharts\Intermediate\Build\Win64\UE4Editor\Development\KantanChartsDatasource\Module.KantanChartsDatasource.gen.cpp.obj"
+"D:\UE_projects\Physics_Laboratory\Plugins\Marketplace\KantanCharts\Intermediate\Build\Win64\UE4Editor\Development\KantanChartsDatasource\Default.rc2.res"
+/OUT:"D:\UE_projects\Physics_Laboratory\Plugins\Marketplace\KantanCharts\Intermediate\Build\Win64\UE4Editor\Development\KantanChartsDatasource\UE4Editor-KantanChartsDatasource.lib"
+/INCLUDE:IMPLEMENT_MODULE_KantanChartsDatasource

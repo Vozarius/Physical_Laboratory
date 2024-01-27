@@ -1,0 +1,112 @@
+D:\UE_projects\Physics_Laboratory\Plugins\Marketplace\KantanCharts\Intermediate\Build\Win32\UE4\Shipping\KantanChartsSlate\Definitions.KantanChartsSlate.h
+D:/UE_projects/Physics_Laboratory/Plugins/Marketplace/KantanCharts/Source/KantanChartsSlate/Private/AxisUtility.cpp
+D:\UE_projects\Physics_Laboratory\Plugins\Marketplace\KantanCharts\Source\KantanChartsSlate\Public\AxisUtility.h
+d:\ue_projects\physics_laboratory\plugins\marketplace\kantancharts\source\kantanchartsslate\public\FloatRoundingLevel.h
+D:\Apps_programs\Visual Studio\VC\Tools\MSVC\14.16.27023\INCLUDE\cmath
+D:\Apps_programs\Visual Studio\VC\Tools\MSVC\14.16.27023\INCLUDE\xtgmath.h
+D:\UE_projects\Physics_Laboratory\Plugins\Marketplace\KantanCharts\Source\KantanChartsSlate\Public\KantanCartesianTypes.h
+D:\UE_projects\Physics_Laboratory\Plugins\Marketplace\KantanCharts\Intermediate\Build\Win32\UE4\Inc\KantanChartsSlate\KantanCartesianTypes.generated.h
+D:/UE_projects/Physics_Laboratory/Plugins/Marketplace/KantanCharts/Source/KantanChartsSlate/Private/Charts/CustomDataSeriesElement.cpp
+d:\ue_projects\physics_laboratory\plugins\marketplace\kantancharts\source\kantanchartsslate\private\charts\IDataSeriesElement.h
+D:\UE_projects\Physics_Laboratory\Plugins\Marketplace\KantanCharts\Source\KantanChartsSlate\Private\SimpleRenderTarget.h
+D:\Apps\UE_4.23\Engine\Source\Runtime\Engine\Public\CanvasTypes.h
+D:\Apps\UE_4.23\Engine\Intermediate\Build\Win32\UE4\Inc\Engine\CanvasTypes.generated.h
+D:\Apps\UE_4.23\Engine\Source\Runtime\Engine\Public\CanvasItem.h
+D:\Apps\UE_4.23\Engine\Source\Runtime\Engine\Classes\Engine/Font.h
+D:\Apps\UE_4.23\Engine\Source\Runtime\Engine\Classes\Engine/FontImportOptions.h
+D:\Apps\UE_4.23\Engine\Intermediate\Build\Win32\UE4\Inc\Engine\FontImportOptions.generated.h
+D:\Apps\UE_4.23\Engine\Source\Runtime\SlateCore\Public\Fonts/FontProviderInterface.h
+D:\Apps\UE_4.23\Engine\Intermediate\Build\Win32\UE4\Inc\SlateCore\FontProviderInterface.generated.h
+D:\Apps\UE_4.23\Engine\Intermediate\Build\Win32\UE4\Inc\Engine\Font.generated.h
+D:/UE_projects/Physics_Laboratory/Plugins/Marketplace/KantanCharts/Source/KantanChartsSlate/Private/Charts/SKantanBarChart.cpp
+D:\UE_projects\Physics_Laboratory\Plugins\Marketplace\KantanCharts\Source\KantanChartsSlate\Public\Charts/SKantanBarChart.h
+D:\UE_projects\Physics_Laboratory\Plugins\Marketplace\KantanCharts\Source\KantanChartsSlate\Public\Charts/SKantanCategoryChart.h
+D:\UE_projects\Physics_Laboratory\Plugins\Marketplace\KantanCharts\Source\KantanChartsSlate\Public\Charts/SKantanChart.h
+D:\UE_projects\Physics_Laboratory\Plugins\Marketplace\KantanCharts\Source\KantanChartsSlate\Public\Interfaces/IChartBase.h
+D:\UE_projects\Physics_Laboratory\Plugins\Marketplace\KantanCharts\Source\KantanChartsSlate\Public\Charts/ChartEvents.h
+D:\UE_projects\Physics_Laboratory\Plugins\Marketplace\KantanCharts\Source\KantanChartsSlate\Public\Charts/CartesianAxisConfig.h
+D:\UE_projects\Physics_Laboratory\Plugins\Marketplace\KantanCharts\Intermediate\Build\Win32\UE4\Inc\KantanChartsSlate\CartesianAxisConfig.generated.h
+D:\UE_projects\Physics_Laboratory\Plugins\Marketplace\KantanCharts\Source\KantanChartsSlate\Public\Style/KantanChartStyle.h
+D:\UE_projects\Physics_Laboratory\Plugins\Marketplace\KantanCharts\Intermediate\Build\Win32\UE4\Inc\KantanChartsSlate\KantanChartStyle.generated.h
+D:\UE_projects\Physics_Laboratory\Plugins\Marketplace\KantanCharts\Source\KantanChartsDatasource\Public\CategoryData.h
+d:\ue_projects\physics_laboratory\plugins\marketplace\kantancharts\source\kantanchartsdatasource\public\IdBasedList.h
+d:\ue_projects\physics_laboratory\plugins\marketplace\kantancharts\source\kantanchartsdatasource\public\KantanCategoryDatasourceInterface.h
+D:\UE_projects\Physics_Laboratory\Plugins\Marketplace\KantanCharts\Intermediate\Build\Win32\UE4\Inc\KantanChartsDatasource\KantanCategoryDatasourceInterface.generated.h
+D:\UE_projects\Physics_Laboratory\Plugins\Marketplace\KantanCharts\Source\KantanChartsSlate\Public\Style/KantanCategoryStyle.h
+D:\UE_projects\Physics_Laboratory\Plugins\Marketplace\KantanCharts\Intermediate\Build\Win32\UE4\Inc\KantanChartsSlate\KantanCategoryStyle.generated.h
+D:\UE_projects\Physics_Laboratory\Plugins\Marketplace\KantanCharts\Source\KantanChartsSlate\Public\Interfaces/ICategoryChart.h
+D:\UE_projects\Physics_Laboratory\Plugins\Marketplace\KantanCharts\Source\KantanChartsSlate\Public\Style/KantanBarChartStyle.h
+D:\UE_projects\Physics_Laboratory\Plugins\Marketplace\KantanCharts\Intermediate\Build\Win32\UE4\Inc\KantanChartsSlate\KantanBarChartStyle.generated.h
+D:\UE_projects\Physics_Laboratory\Plugins\Marketplace\KantanCharts\Source\KantanChartsSlate\Public\Style/KantanChartsStyleSet.h
+D:\Apps\UE_4.23\Engine\Source\Runtime\SlateCore\Public\Styling/SlateStyle.h
+D:\Apps\UE_4.23\Engine\Source\Runtime\SlateCore\Public\Brushes/SlateBorderBrush.h
+D:\Apps\UE_4.23\Engine\Source\Runtime\SlateCore\Public\Brushes/SlateBoxBrush.h
+D:\Apps\UE_4.23\Engine\Source\Runtime\SlateCore\Public\Brushes/SlateColorBrush.h
+D:\Apps\UE_4.23\Engine\Source\Runtime\SlateCore\Public\Brushes/SlateImageBrush.h
+D:\UE_projects\Physics_Laboratory\Plugins\Marketplace\KantanCharts\Source\KantanChartsSlate\Public\KantanCategoryTypes.h
+D:\UE_projects\Physics_Laboratory\Plugins\Marketplace\KantanCharts\Source\KantanChartsSlate\Public\Interfaces/IBarChart.h
+d:\ue_projects\physics_laboratory\plugins\marketplace\kantancharts\source\kantanchartsslate\private\charts\ChartConstants.h
+D:\Apps\UE_4.23\Engine\Source\Runtime\SlateCore\Public\Fonts/FontMeasure.h
+D:/UE_projects/Physics_Laboratory/Plugins/Marketplace/KantanCharts/Source/KantanChartsSlate/Private/Charts/SKantanCartesianChart.cpp
+D:\UE_projects\Physics_Laboratory\Plugins\Marketplace\KantanCharts\Source\KantanChartsSlate\Public\Charts/SKantanCartesianChart.h
+D:\UE_projects\Physics_Laboratory\Plugins\Marketplace\KantanCharts\Source\KantanChartsDatasource\Public\KantanCartesianDatapoint.h
+D:\UE_projects\Physics_Laboratory\Plugins\Marketplace\KantanCharts\Intermediate\Build\Win32\UE4\Inc\KantanChartsDatasource\KantanCartesianDatapoint.generated.h
+D:\UE_projects\Physics_Laboratory\Plugins\Marketplace\KantanCharts\Source\KantanChartsDatasource\Public\CartesianData.h
+d:\ue_projects\physics_laboratory\plugins\marketplace\kantancharts\source\kantanchartsdatasource\public\KantanCartesianDatasourceInterface.h
+D:\UE_projects\Physics_Laboratory\Plugins\Marketplace\KantanCharts\Intermediate\Build\Win32\UE4\Inc\KantanChartsDatasource\KantanCartesianDatasourceInterface.generated.h
+D:\UE_projects\Physics_Laboratory\Plugins\Marketplace\KantanCharts\Source\KantanChartsSlate\Public\Style/KantanSeriesStyle.h
+D:\UE_projects\Physics_Laboratory\Plugins\Marketplace\KantanCharts\Intermediate\Build\Win32\UE4\Inc\KantanChartsSlate\KantanSeriesStyle.generated.h
+D:\UE_projects\Physics_Laboratory\Plugins\Marketplace\KantanCharts\Source\KantanChartsSlate\Public\Style/KantanCartesianChartStyle.h
+D:\UE_projects\Physics_Laboratory\Plugins\Marketplace\KantanCharts\Intermediate\Build\Win32\UE4\Inc\KantanChartsSlate\KantanCartesianChartStyle.generated.h
+D:\UE_projects\Physics_Laboratory\Plugins\Marketplace\KantanCharts\Source\KantanChartsSlate\Public\Interfaces/ICartesianChart.h
+D:\UE_projects\Physics_Laboratory\Plugins\Marketplace\KantanCharts\Source\KantanChartsSlate\Public\Style/KantanSeriesStyleSet.h
+D:\UE_projects\Physics_Laboratory\Plugins\Marketplace\KantanCharts\Intermediate\Build\Win32\UE4\Inc\KantanChartsSlate\KantanSeriesStyleSet.generated.h
+D:\UE_projects\Physics_Laboratory\Plugins\Marketplace\KantanCharts\Source\KantanChartsSlate\Private\KantanChartsSlateModule.h
+D:\UE_projects\Physics_Laboratory\Plugins\Marketplace\KantanCharts\Source\KantanChartsSlate\Public\IKantanChartsSlateModule.h
+D:/UE_projects/Physics_Laboratory/Plugins/Marketplace/KantanCharts/Source/KantanChartsSlate/Private/Charts/SKantanCategoryChart.cpp
+D:\UE_projects\Physics_Laboratory\Plugins\Marketplace\KantanCharts\Source\KantanChartsSlate\Public\Style/KantanCategoryStyleSet.h
+D:\UE_projects\Physics_Laboratory\Plugins\Marketplace\KantanCharts\Intermediate\Build\Win32\UE4\Inc\KantanChartsSlate\KantanCategoryStyleSet.generated.h
+D:/UE_projects/Physics_Laboratory/Plugins/Marketplace/KantanCharts/Source/KantanChartsSlate/Private/Charts/SKantanChart.cpp
+D:/UE_projects/Physics_Laboratory/Plugins/Marketplace/KantanCharts/Source/KantanChartsSlate/Private/Charts/SKantanChartLegend.cpp
+D:\UE_projects\Physics_Laboratory\Plugins\Marketplace\KantanCharts\Source\KantanChartsSlate\Public\Charts/SKantanChartLegend.h
+D:\UE_projects\Physics_Laboratory\Plugins\Marketplace\KantanCharts\Source\KantanChartsSlate\Public\Interfaces/IChartLegend.h
+D:/UE_projects/Physics_Laboratory/Plugins/Marketplace/KantanCharts/Source/KantanChartsSlate/Private/Charts/SKantanTimeSeriesPlot.cpp
+D:\UE_projects\Physics_Laboratory\Plugins\Marketplace\KantanCharts\Source\KantanChartsSlate\Public\Charts/SKantanTimeSeriesPlot.h
+D:\UE_projects\Physics_Laboratory\Plugins\Marketplace\KantanCharts\Source\KantanChartsSlate\Public\Interfaces/ITimeSeriesChart.h
+D:\Apps_programs\Visual Studio\VC\Tools\MSVC\14.16.27023\INCLUDE\algorithm
+D:\Apps_programs\Visual Studio\VC\Tools\MSVC\14.16.27023\INCLUDE\xmemory
+D:\Apps_programs\Visual Studio\VC\Tools\MSVC\14.16.27023\INCLUDE\xmemory0
+D:\Apps_programs\Visual Studio\VC\Tools\MSVC\14.16.27023\INCLUDE\cstdint
+D:\Apps_programs\Visual Studio\VC\Tools\MSVC\14.16.27023\INCLUDE\limits
+D:\Apps_programs\Visual Studio\VC\Tools\MSVC\14.16.27023\INCLUDE\ymath.h
+D:\Apps_programs\Visual Studio\VC\Tools\MSVC\14.16.27023\INCLUDE\cfloat
+D:\Apps_programs\Visual Studio\VC\Tools\MSVC\14.16.27023\INCLUDE\climits
+D:\Apps_programs\Visual Studio\VC\Tools\MSVC\14.16.27023\INCLUDE\cwchar
+D:\Apps_programs\Visual Studio\VC\Tools\MSVC\14.16.27023\INCLUDE\xutility
+D:\Apps_programs\Visual Studio\VC\Tools\MSVC\14.16.27023\INCLUDE\utility
+D:\Apps_programs\Visual Studio\VC\Tools\MSVC\14.16.27023\INCLUDE\iosfwd
+D:\Apps_programs\Visual Studio\VC\Tools\MSVC\14.16.27023\INCLUDE\cstdio
+D:\Apps_programs\Visual Studio\VC\Tools\MSVC\14.16.27023\INCLUDE\cstring
+D:\Apps_programs\Visual Studio\VC\Tools\MSVC\14.16.27023\INCLUDE\xatomic0.h
+D:/UE_projects/Physics_Laboratory/Plugins/Marketplace/KantanCharts/Source/KantanChartsSlate/Private/Charts/SlateBoxDataSeriesElement.cpp
+D:/UE_projects/Physics_Laboratory/Plugins/Marketplace/KantanCharts/Source/KantanChartsSlate/Private/FloatRoundingLevel.cpp
+D:/UE_projects/Physics_Laboratory/Plugins/Marketplace/KantanCharts/Source/KantanChartsSlate/Private/KantanChartsImpl.cpp
+d:\ue_projects\physics_laboratory\plugins\marketplace\kantancharts\source\kantanchartsslate\private\KantanChartsImpl.h
+D:\UE_projects\Physics_Laboratory\Plugins\Marketplace\KantanCharts\Source\KantanChartsSlate\Public\Interfaces/IKantanChartsInterface.h
+D:\UE_projects\Physics_Laboratory\Plugins\Marketplace\KantanCharts\Source\KantanChartsDatasource\Public\KantanSimpleCartesianDatasource.h
+d:\ue_projects\physics_laboratory\plugins\marketplace\kantancharts\source\kantanchartsdatasource\public\SimpleCartesianDatasourceImpl.h
+D:\UE_projects\Physics_Laboratory\Plugins\Marketplace\KantanCharts\Intermediate\Build\Win32\UE4\Inc\KantanChartsDatasource\KantanSimpleCartesianDatasource.generated.h
+D:\UE_projects\Physics_Laboratory\Plugins\Marketplace\KantanCharts\Source\KantanChartsDatasource\Public\KantanSimpleCategoryDatasource.h
+d:\ue_projects\physics_laboratory\plugins\marketplace\kantancharts\source\kantanchartsdatasource\public\SimpleCategoryDatasourceImpl.h
+D:\UE_projects\Physics_Laboratory\Plugins\Marketplace\KantanCharts\Intermediate\Build\Win32\UE4\Inc\KantanChartsDatasource\KantanSimpleCategoryDatasource.generated.h
+D:/UE_projects/Physics_Laboratory/Plugins/Marketplace/KantanCharts/Source/KantanChartsSlate/Private/KantanChartsSlateModule.cpp
+D:\Apps\UE_4.23\Engine\Source\Runtime\SlateCore\Public\Styling/SlateStyleRegistry.h
+D:/UE_projects/Physics_Laboratory/Plugins/Marketplace/KantanCharts/Source/KantanChartsSlate/Private/Style/KantanChartsStyleSet.cpp
+D:\Apps\UE_4.23\Engine\Source\Runtime\Engine\Public\Slate/SlateGameResources.h
+D:\Apps\UE_4.23\Engine\Source\Runtime\Projects\Public\Interfaces/IPluginManager.h
+D:\Apps\UE_4.23\Engine\Source\Runtime\Projects\Public\PluginDescriptor.h
+d:\apps\ue_4.23\engine\source\runtime\projects\public\ModuleDescriptor.h
+d:\apps\ue_4.23\engine\source\runtime\projects\public\CustomBuildSteps.h
+d:\apps\ue_4.23\engine\source\runtime\projects\public\LocalizationDescriptor.h
+d:\apps\ue_4.23\engine\source\runtime\projects\public\PluginReferenceDescriptor.h
+D:/UE_projects/Physics_Laboratory/Plugins/Marketplace/KantanCharts/Source/KantanChartsSlate/Private/Style/KantanChartStyles.cpp

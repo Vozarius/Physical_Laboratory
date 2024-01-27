@@ -1,0 +1,18 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.KantanChartsDatasource.cpp.obj": [
+			"KantanChartsDatasourceModule.cpp.obj",
+			"KantanSimpleCartesianDatasource.cpp.obj",
+			"KantanSimpleCategoryDatasource.cpp.obj"
+		],
+		"Module.KantanChartsDatasource.gen.cpp.obj": [
+			"KantanCartesianDatapoint.gen.cpp.obj",
+			"KantanCartesianDatasourceInterface.gen.cpp.obj",
+			"KantanCategoryDatasourceInterface.gen.cpp.obj",
+			"KantanChartsDatasource.init.gen.cpp.obj",
+			"KantanSimpleCartesianDatasource.gen.cpp.obj",
+			"KantanSimpleCategoryDatasource.gen.cpp.obj"
+		]
+	}
+}

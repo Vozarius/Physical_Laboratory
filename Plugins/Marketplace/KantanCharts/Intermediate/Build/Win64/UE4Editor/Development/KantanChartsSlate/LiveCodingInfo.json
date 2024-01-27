@@ -1,0 +1,34 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.KantanChartsSlate.cpp.obj": [
+			"AxisUtility.cpp.obj",
+			"CustomDataSeriesElement.cpp.obj",
+			"SKantanBarChart.cpp.obj",
+			"SKantanCartesianChart.cpp.obj",
+			"SKantanCategoryChart.cpp.obj",
+			"SKantanChart.cpp.obj",
+			"SKantanChartLegend.cpp.obj",
+			"SKantanTimeSeriesPlot.cpp.obj",
+			"SlateBoxDataSeriesElement.cpp.obj",
+			"FloatRoundingLevel.cpp.obj",
+			"KantanChartsImpl.cpp.obj",
+			"KantanChartsSlateModule.cpp.obj",
+			"KantanChartsStyleSet.cpp.obj",
+			"KantanChartStyles.cpp.obj"
+		],
+		"Module.KantanChartsSlate.gen.cpp.obj": [
+			"CartesianAxisConfig.gen.cpp.obj",
+			"KantanBarChartStyle.gen.cpp.obj",
+			"KantanCartesianChartStyle.gen.cpp.obj",
+			"KantanCartesianTypes.gen.cpp.obj",
+			"KantanCategoryStyle.gen.cpp.obj",
+			"KantanCategoryStyleSet.gen.cpp.obj",
+			"KantanCategoryTypes.gen.cpp.obj",
+			"KantanChartsSlate.init.gen.cpp.obj",
+			"KantanChartStyle.gen.cpp.obj",
+			"KantanSeriesStyle.gen.cpp.obj",
+			"KantanSeriesStyleSet.gen.cpp.obj"
+		]
+	}
+}

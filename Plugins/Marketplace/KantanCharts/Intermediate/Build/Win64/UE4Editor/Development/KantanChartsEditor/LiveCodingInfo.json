@@ -1,0 +1,29 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.KantanChartsEditor.cpp.obj": [
+			"KCKantanInfoAsset.cpp.obj",
+			"KCKantanChangelist.cpp.obj",
+			"KCKantanPluginInstallation.cpp.obj",
+			"KCKantanInstallationStyleSet.cpp.obj",
+			"CartesianAxisConfigCustomization.cpp.obj",
+			"CategoryStyleManualMappingCustomization.cpp.obj",
+			"DetailHelpers.cpp.obj",
+			"KantanBarChartCustomization.cpp.obj",
+			"KantanCartesianPlotCustomization.cpp.obj",
+			"KantanCartesianPlotScaleCustomization.cpp.obj",
+			"KantanCategoryChartCustomization.cpp.obj",
+			"KantanChartsEditorModule.cpp.obj",
+			"KantanSimpleCartesianDatasourceFactory.cpp.obj",
+			"KantanSimpleCategoryDatasourceFactory.cpp.obj",
+			"KantanTimeSeriesPlotCustomization.cpp.obj",
+			"SeriesStyleManualMappingCustomization.cpp.obj"
+		],
+		"Module.KantanChartsEditor.gen.cpp.obj": [
+			"KantanChartsEditor.init.gen.cpp.obj",
+			"KantanSimpleCartesianDatasourceFactory.gen.cpp.obj",
+			"KantanSimpleCategoryDatasourceFactory.gen.cpp.obj",
+			"KCKantanInfoAsset.gen.cpp.obj"
+		]
+	}
+}
